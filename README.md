@@ -9,4 +9,4 @@ Contains buttered fragments:
  * ButteredListFragment
  * ButteredDialogFragment
  
- Depends on Jake Warthons [Butterknife library](http://jakewharton.github.io/butterknife/).
+Depends on Jake Warthons [Butterknife library](http://jakewharton.github.io/butterknife/).
